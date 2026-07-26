@@ -1,0 +1,4 @@
+dataset/
+dataset_aug/
+self_test_images/
+model_weights_checkpoints/
